@@ -1,0 +1,16 @@
+Wordsearch generator
+====================
+
+Currently, this is a simple command-line script which generates a wordsearch
+grid.
+
+Usage:
+
+ python wordsearch.py <difficulty> [word...]
+
+The grid size, and permissible directions for words, is controlled by the
+difficulty setting, which is one of easy, normal and hard.
+
+The output grid is displayed on stdout, and written to a pdf file.
+
+Much word still remains to make the output nice.
