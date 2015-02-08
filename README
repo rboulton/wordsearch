@@ -14,3 +14,8 @@ difficulty setting, which is one of easy, normal and hard.
 The output grid is displayed on stdout, and written to a pdf file.
 
 Much work still remains to make the output nice.
+
+Requirements
+============
+
+reportlab Python library (https://pypi.python.org/pypi/reportlab)
